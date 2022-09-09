@@ -1,0 +1,24 @@
+Base path: 'D:/Unity/2020.3.36f1/Editor/Data', plugins path 'D:/Unity/2020.3.36f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=14452 outsize=14452 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=8759 outsize=8759 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=8373 outsize=8373 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=5039 outsize=5039 ok=1
+
+Cmd: disassembleShader
+ name=Legacy Shaders/VertexLit platform=gles type=5 mask=6 insize=8608 outsize=8608 ok=1
+
+Cmd: disassembleShader
+ name=Legacy Shaders/Transparent/Diffuse platform=gles type=5 mask=6 insize=3917 outsize=3917 ok=1
+
+Cmd: disassembleShader
+ name=TextMeshPro/Sprite platform=gles type=5 mask=6 insize=2290 outsize=2290 ok=1
+

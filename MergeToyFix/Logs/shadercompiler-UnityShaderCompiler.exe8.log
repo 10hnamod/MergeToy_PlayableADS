@@ -1,0 +1,24 @@
+Base path: 'D:/Unity/2020.3.36f1/Editor/Data', plugins path 'D:/Unity/2020.3.36f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=14186 outsize=14186 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=8554 outsize=8554 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=9664 outsize=9664 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=7339 outsize=7339 ok=1
+
+Cmd: disassembleShader
+ name=Legacy Shaders/Transparent/VertexLit platform=gles type=5 mask=6 insize=9029 outsize=9029 ok=1
+
+Cmd: disassembleShader
+ name=TextMeshPro/Mobile/Distance Field platform=gles type=5 mask=6 insize=6334 outsize=6334 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=8594 outsize=8594 ok=1
+

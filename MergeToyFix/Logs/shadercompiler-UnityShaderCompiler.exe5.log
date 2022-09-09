@@ -1,0 +1,36 @@
+Base path: 'D:/Unity/2020.3.36f1/Editor/Data', plugins path 'D:/Unity/2020.3.36f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+
+Cmd: disassembleShader
+ name=UI/Default platform=gles type=5 mask=6 insize=3172 outsize=3172 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=12938 outsize=12938 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=13003 outsize=13003 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=7488 outsize=7488 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=7062 outsize=7062 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=7023 outsize=7023 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=6498 outsize=6498 ok=1
+
+Cmd: disassembleShader
+ name=Legacy Shaders/VertexLit platform=gles type=5 mask=6 insize=9014 outsize=9014 ok=1
+
+Cmd: disassembleShader
+ name=Legacy Shaders/Transparent/Diffuse platform=gles type=5 mask=6 insize=4064 outsize=4064 ok=1
+
+Cmd: disassembleShader
+ name=GAP/AlphaBlendedMobileDistortionScroll platform=gles type=5 mask=6 insize=5059 outsize=5059 ok=1
+
+Cmd: disassembleShader
+ name=TextMeshPro/Sprite platform=gles type=5 mask=6 insize=2435 outsize=2435 ok=1
+

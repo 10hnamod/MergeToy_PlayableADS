@@ -1,0 +1,21 @@
+Base path: 'D:/Unity/2020.3.36f1/Editor/Data', plugins path 'D:/Unity/2020.3.36f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=14250 outsize=14250 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=9009 outsize=9009 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=8587 outsize=8587 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=9885 outsize=9885 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=6630 outsize=6630 ok=1
+
+Cmd: disassembleShader
+ name=Legacy Shaders/Transparent/Diffuse platform=gles type=5 mask=6 insize=5290 outsize=5290 ok=1
+

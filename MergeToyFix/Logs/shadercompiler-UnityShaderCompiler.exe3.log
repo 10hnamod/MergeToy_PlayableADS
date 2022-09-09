@@ -1,0 +1,27 @@
+Base path: 'D:/Unity/2020.3.36f1/Editor/Data', plugins path 'D:/Unity/2020.3.36f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+
+Cmd: disassembleShader
+ name=UI/Default platform=gles type=5 mask=6 insize=2807 outsize=2807 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=15812 outsize=15812 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=12938 outsize=12938 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=8902 outsize=8902 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=7023 outsize=7023 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=6141 outsize=6141 ok=1
+
+Cmd: disassembleShader
+ name=Mobile/Diffuse platform=gles type=5 mask=6 insize=3975 outsize=3975 ok=1
+
+Cmd: disassembleShader
+ name=Skybox/Procedural platform=gles type=5 mask=6 insize=11229 outsize=11229 ok=1
+

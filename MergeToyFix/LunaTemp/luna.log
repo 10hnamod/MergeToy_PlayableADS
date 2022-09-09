@@ -1,0 +1,211 @@
+Authorized using stored user info.
+stderr: 'rm' is not recognized as an internal or external command,
+operable program or batch file.
+
+Exporting assets from Unity................
+[ Stage1 ] Assets exported from Unity and staged for further processing
+E:\MergeToyFix\LunaTemp\expert.json is invalid or doesn't exist
+E:\MergeToyFix\LunaTemp\expert.json is invalid or doesn't exist
+E:\MergeToyFix\LunaTemp\expert.json is invalid or doesn't exist
+E:\MergeToyFix\LunaTemp\expert.json is invalid or doesn't exist
+E:\MergeToyFix\LunaTemp\expert.json is invalid or doesn't exist
+Using E:/MergeToyFix/Assets/GUI PRO Kit - Simple Casual/Fonts/Rubik-SemiBold.ttf file to generate an atlas for Rubik-SemiBold[24698] font
+  Using alphabet  §1234567890-=qwertyuiop[]asdfghjkl;'\`zxcvbnm,./±!@#$%^&*()_+QWERTYUIOP{}ASDFGHJKL:"|~ZXCVBNM<>?
+Combined 97 glyphs into bitmap texture at E:/MergeToyFix/LunaTemp/stage1/tmp/fonts/Rubik-SemiBold-24698/output_0.png (58kb)
+E:\MergeToyFix\LunaTemp\expert.json is invalid or doesn't exist
+E:\MergeToyFix\LunaTemp\expert.json is invalid or doesn't exist
+E:\MergeToyFix\LunaTemp\expert.json is invalid or doesn't exist
+E:\MergeToyFix\LunaTemp\expert.json is invalid or doesn't exist
+E:\MergeToyFix\LunaTemp\expert.json is invalid or doesn't exist
+E:\MergeToyFix\LunaTemp\expert.json is invalid or doesn't exist
+E:\MergeToyFix\LunaTemp\expert.json is invalid or doesn't exist
+E:\MergeToyFix\LunaTemp\expert.json is invalid or doesn't exist
+E:\MergeToyFix\LunaTemp\expert.json is invalid or doesn't exist
+E:\MergeToyFix\LunaTemp\expert.json is invalid or doesn't exist
+E:\MergeToyFix\LunaTemp\expert.json is invalid or doesn't exist
+E:\MergeToyFix\LunaTemp\expert.json is invalid or doesn't exist
+E:\MergeToyFix\LunaTemp\expert.json is invalid or doesn't exist
+E:\MergeToyFix\LunaTemp\expert.json is invalid or doesn't exist
+Found custom rules for texture Resources/unity_builtin_extra/Default-Particle
+  {"maxWidth":512,"maxHeight":512,"format":"png32","compression":"none","quality":65,"script":"","ext":"","name":"Resources/unity_builtin_extra/Default-Particle","isOverride":true}
+E:\MergeToyFix\LunaTemp\expert.json is invalid or doesn't exist
+E:\MergeToyFix\LunaTemp\expert.json is invalid or doesn't exist
+E:\MergeToyFix\LunaTemp\expert.json is invalid or doesn't exist
+E:\MergeToyFix\LunaTemp\expert.json is invalid or doesn't exist
+E:\MergeToyFix\LunaTemp\expert.json is invalid or doesn't exist
+E:\MergeToyFix\LunaTemp\expert.json is invalid or doesn't exist
+Resources:
+{"unity.preloader.icon":"resources/unity.preloader.icon.png"}
+E:\MergeToyFix\LunaTemp\expert.json is invalid or doesn't exist
+[ Stage2 ] Assets postprocessed and bundled successfully
+MSBuild version 17.3.1+2badb37d1 for .NET Framework
+
+Build started 9/9/2022 2:54:40 PM.
+
+Project "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj" on node 1 (Rebuild target(s)).
+
+CoreClean:
+  Deleting file "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.dll".
+
+  Deleting file "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.pdb".
+
+  Deleting file "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.dll".
+
+  Deleting file "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.dll".
+
+  Deleting file "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.dll".
+
+  Deleting file "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\DOTween.dll".
+
+  Deleting file "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.dll".
+
+  Deleting file "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.dll".
+
+  Deleting file "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.dll".
+
+  Deleting file "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.dll".
+
+  Deleting file "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.dll".
+
+  Deleting file "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\TextMeshPro.dll".
+
+  Deleting file "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.dll".
+
+  Deleting file "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UI.dll".
+
+  Deleting file "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UniversalRenderPipeline.dll".
+
+  Deleting file "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.xml".
+
+  Deleting file "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.xml".
+
+  Deleting file "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.xml".
+
+  Deleting file "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.xml".
+
+  Deleting file "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.xml".
+
+  Deleting file "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.xml".
+
+  Deleting file "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.xml".
+
+  Deleting file "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.xml".
+
+  Deleting file "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.AssemblyReference.cache".
+
+  Deleting file "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.CoreCompileInputs.cache".
+
+  Deleting file "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.CopyComplete".
+
+  Deleting file "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.dll".
+
+  Deleting file "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.pdb".
+
+GenerateTargetFrameworkMonikerAttribute:
+Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+
+CoreCompile:
+  C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\Roslyn\csc.exe /noconfig /nowarn:CS0626,1701,1702 /fullpaths /nostdlib+ /errorreport:prompt /warn:4 /define:UNITY_LUNA;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_2020;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2020_3;UNITY_2020_3_36 /highentropyva+ /reference:C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\packages\Bridge.Core.17.9.19-luna\lib\net40\Bridge.dll /reference:C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\packages\Bridge.Html5.17.9.0\lib\net40\Bridge.Html5.dll /reference:C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\packages\Bridge.WebGL.1.22.0\lib\net40\Bridge.WebGL.dll /reference:C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\packages\DOTween.1.2.235\lib\net40\DOTween.dll /reference:C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\packages\Bridge.Newtonsoft.Json.1.16.0\lib\net40\Newtonsoft.Json.dll /reference:C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\packages\Retyped.Core.1.6.6733\lib\net40\Retyped.Core.dll /reference:C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\packages\Retyped.dom.2.8.6733\lib\net40\Retyped.dom.dll /reference:C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\packages\Retyped.es5.2.8.6733\lib\net40\Retyped.es5.dll /reference:C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\packages\Retyped.scripthost.2.8.6733\lib\net40\Retyped.scripthost.dll /reference:C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\packages\com.unity.textmeshpro\3.0.6\TextMeshPro.dll /reference:C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\Vendor\UnityEngine.dll /reference:C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\packages\com.unity.ui\1.2.1\UnityEngine.UI.dll /reference:C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\packages\com.unity.urp\7.6\UnityEngine.UniversalRenderPipeline.dll /debug+ /debug:full /optimize- /out:obj\Debug\UnityScriptsCompiler.dll /subsystemversion:6.00 /target:library /utf8output /langversion:7.2 "E:\MergeToyFix\Assets\!3 UI\!!UI_NEW\Victory\Fx\UIParticleSystem.cs" "E:\MergeToyFix\Assets\GUI PRO Kit - Simple Casual\Scripts\PanelControlSimpleCasual.cs" "E:\MergeToyFix\Assets\GUI PRO Kit - Simple Casual\Scripts\PanelSimpleCasual.cs" "E:\MergeToyFix\Assets\NeverFall Robots\Scripts\CameraControll.cs" "E:\MergeToyFix\Assets\NeverFall Robots\Scripts\RobotControll.cs" E:\MergeToyFix\Assets\Scripts\ControlChuong.cs E:\MergeToyFix\Assets\Scripts\ControlMagic.cs E:\MergeToyFix\Assets\Scripts\CreateGridPlayer.cs E:\MergeToyFix\Assets\Scripts\DragPlayer.cs E:\MergeToyFix\Assets\Scripts\FixedUI.cs E:\MergeToyFix\Assets\Scripts\GameController.cs E:\MergeToyFix\Assets\Scripts\GroundController.cs E:\MergeToyFix\Assets\Scripts\ItemGridControl.cs E:\MergeToyFix\Assets\Scripts\MuiTenControl.cs E:\MergeToyFix\Assets\Scripts\PlayerController.cs E:\MergeToyFix\Assets\Scripts\SoundManager.cs E:\MergeToyFix\Assets\Scripts\Storelink.cs Properties/AssemblyInfo.cs Sources/OtherDummyScript.cs "obj\Debug\.NETFramework,Version=v4.7.AssemblyAttributes.cs"
+
+E:\MergeToyFix\Assets\GUI PRO Kit - Simple Casual\Scripts\PanelControlSimpleCasual.cs(19,44): warning CS0649: Field 'PanelControlSimpleCasual.panelTransformLight' is never assigned to, and will always have its default value null [C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+E:\MergeToyFix\Assets\GUI PRO Kit - Simple Casual\Scripts\PanelControlSimpleCasual.cs(20,44): warning CS0649: Field 'PanelControlSimpleCasual.panelTransformDark' is never assigned to, and will always have its default value null [C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+E:\MergeToyFix\Assets\GUI PRO Kit - Simple Casual\Scripts\PanelSimpleCasual.cs(9,47): warning CS0649: Field 'PanelSimpleCasual.otherPanels' is never assigned to, and will always have its default value null [C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+E:\MergeToyFix\Assets\Scripts\FixedUI.cs(8,50): warning CS0649: Field 'FixedUI.fight' is never assigned to, and will always have its default value null [C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+E:\MergeToyFix\Assets\Scripts\FixedUI.cs(8,44): warning CS0649: Field 'FixedUI.tuto' is never assigned to, and will always have its default value null [C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+E:\MergeToyFix\Assets\GUI PRO Kit - Simple Casual\Scripts\PanelControlSimpleCasual.cs(23,41): warning CS0649: Field 'PanelControlSimpleCasual.buttonPrev' is never assigned to, and will always have its default value null [C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+E:\MergeToyFix\Assets\GUI PRO Kit - Simple Casual\Scripts\PanelControlSimpleCasual.cs(24,41): warning CS0649: Field 'PanelControlSimpleCasual.buttonNext' is never assigned to, and will always have its default value null [C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+E:\MergeToyFix\Assets\NeverFall Robots\Scripts\RobotControll.cs(9,20): warning CS0414: The field 'RobotControll.textFire' is assigned but its value is never used [C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+E:\MergeToyFix\Assets\NeverFall Robots\Scripts\RobotControll.cs(8,17): warning CS0414: The field 'RobotControll.text' is assigned but its value is never used [C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+  CompilerServer: server - server processed compilation - 6476f762-a682-4ec4-bd2a-084cca49a834
+
+_CopyFilesMarkedCopyLocal:
+  Copying file from "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\packages\Bridge.Newtonsoft.Json.1.16.0\lib\net40\Newtonsoft.Json.dll" to "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.dll".
+
+  Copying file from "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\packages\DOTween.1.2.235\lib\net40\DOTween.dll" to "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\DOTween.dll".
+  Copying file from "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\packages\Bridge.WebGL.1.22.0\lib\net40\Bridge.WebGL.dll" to "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.dll".
+  Copying file from "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\packages\Retyped.Core.1.6.6733\lib\net40\Retyped.Core.dll" to "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.dll".
+
+  Copying file from "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\packages\Bridge.Html5.17.9.0\lib\net40\Bridge.Html5.dll" to "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.dll".
+
+  Copying file from "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\packages\Bridge.Core.17.9.19-luna\lib\net40\Bridge.dll" to "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.dll".
+
+  Copying file from "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\packages\Retyped.dom.2.8.6733\lib\net40\Retyped.dom.dll" to "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.dll".
+
+  Copying file from "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\packages\Retyped.es5.2.8.6733\lib\net40\Retyped.es5.dll" to "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.dll".
+
+  Copying file from "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\packages\Retyped.scripthost.2.8.6733\lib\net40\Retyped.scripthost.dll" to "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.dll".
+
+  Copying file from "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\packages\com.unity.textmeshpro\3.0.6\TextMeshPro.dll" to "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\TextMeshPro.dll".
+
+  Copying file from "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\Vendor\UnityEngine.dll" to "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.dll".
+
+  Copying file from "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\packages\com.unity.ui\1.2.1\UnityEngine.UI.dll" to "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UI.dll".
+
+  Copying file from "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\packages\Bridge.Core.17.9.19-luna\lib\net40\Bridge.xml" to "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.xml".
+  Copying file from "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\packages\com.unity.urp\7.6\UnityEngine.UniversalRenderPipeline.dll" to "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UniversalRenderPipeline.dll".
+
+  Copying file from "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\packages\Bridge.WebGL.1.22.0\lib\net40\Bridge.WebGL.xml" to "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.xml".
+
+  Copying file from "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\packages\Bridge.Html5.17.9.0\lib\net40\Bridge.Html5.xml" to "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.xml".
+
+  Copying file from "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\packages\Bridge.Newtonsoft.Json.1.16.0\lib\net40\Newtonsoft.Json.xml" to "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.xml".
+
+  Copying file from "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\packages\Retyped.Core.1.6.6733\lib\net40\Retyped.Core.xml" to "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.xml".
+
+  Copying file from "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\packages\Retyped.dom.2.8.6733\lib\net40\Retyped.dom.xml" to "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.xml".
+
+  Copying file from "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\packages\Retyped.es5.2.8.6733\lib\net40\Retyped.es5.xml" to "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.xml".
+
+  Copying file from "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\packages\Retyped.scripthost.2.8.6733\lib\net40\Retyped.scripthost.xml" to "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.xml".
+
+  Creating "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.CopyComplete" because "AlwaysCreate" was specified.
+
+CopyFilesToOutputDirectory:
+  Copying file from "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.dll" to "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.dll".
+
+  Scripts -> C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.dll
+
+  Copying file from "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.pdb" to "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.pdb".
+
+BridgeNetCompilerTask:
+
+  Bridge started
+
+      To enable detailed logging, configure "logging" in bridge.json.
+      https://github.com/bridgedotnet/Bridge/wiki/global-configuration#logging
+
+  Bridge done
+
+Done Building Project "C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj" (Rebuild target(s)).
+
+
+Build succeeded.
+
+
+
+"C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj" (Rebuild target) (1) ->
+(CoreCompile target) -> 
+  E:\MergeToyFix\Assets\GUI PRO Kit - Simple Casual\Scripts\PanelControlSimpleCasual.cs(19,44): warning CS0649: Field 'PanelControlSimpleCasual.panelTransformLight' is never assigned to, and will always have its default value null [C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  E:\MergeToyFix\Assets\GUI PRO Kit - Simple Casual\Scripts\PanelControlSimpleCasual.cs(20,44): warning CS0649: Field 'PanelControlSimpleCasual.panelTransformDark' is never assigned to, and will always have its default value null [C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  E:\MergeToyFix\Assets\GUI PRO Kit - Simple Casual\Scripts\PanelSimpleCasual.cs(9,47): warning CS0649: Field 'PanelSimpleCasual.otherPanels' is never assigned to, and will always have its default value null [C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  E:\MergeToyFix\Assets\Scripts\FixedUI.cs(8,50): warning CS0649: Field 'FixedUI.fight' is never assigned to, and will always have its default value null [C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  E:\MergeToyFix\Assets\Scripts\FixedUI.cs(8,44): warning CS0649: Field 'FixedUI.tuto' is never assigned to, and will always have its default value null [C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  E:\MergeToyFix\Assets\GUI PRO Kit - Simple Casual\Scripts\PanelControlSimpleCasual.cs(23,41): warning CS0649: Field 'PanelControlSimpleCasual.buttonPrev' is never assigned to, and will always have its default value null [C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  E:\MergeToyFix\Assets\GUI PRO Kit - Simple Casual\Scripts\PanelControlSimpleCasual.cs(24,41): warning CS0649: Field 'PanelControlSimpleCasual.buttonNext' is never assigned to, and will always have its default value null [C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  E:\MergeToyFix\Assets\NeverFall Robots\Scripts\RobotControll.cs(9,20): warning CS0414: The field 'RobotControll.textFire' is assigned but its value is never used [C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  E:\MergeToyFix\Assets\NeverFall Robots\Scripts\RobotControll.cs(8,17): warning CS0414: The field 'RobotControll.text' is assigned but its value is never used [C:\Users\manhd\Downloads\luna-plugin\luna-plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+    9 Warning(s)
+    0 Error(s)
+
+
+Time Elapsed 00:00:06.06
+
+Source code compiled successfully!
+[ Stage3 ] Code compiled and bundled successfully.
+[ Stage4 ] Target platform: playground
+[ Stage4 ] Package bundled successfully
+[ Stage4 ] Package uploaded successfully

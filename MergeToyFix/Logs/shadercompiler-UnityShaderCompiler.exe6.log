@@ -1,0 +1,24 @@
+Base path: 'D:/Unity/2020.3.36f1/Editor/Data', plugins path 'D:/Unity/2020.3.36f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=12736 outsize=12736 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=7382 outsize=7382 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=9671 outsize=9671 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=6583 outsize=6583 ok=1
+
+Cmd: disassembleShader
+ name=Mobile/VertexLit platform=gles type=5 mask=6 insize=6961 outsize=6961 ok=1
+
+Cmd: disassembleShader
+ name=GAP/AlphaBlendedMobileDistortionScroll platform=gles type=5 mask=6 insize=5059 outsize=5059 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=14452 outsize=14452 ok=1
+
